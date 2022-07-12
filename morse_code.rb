@@ -33,7 +33,7 @@ end
 
 def decode_word(word)
   result = ''
-  letters = word.split(' ')
+  letters = word.split
   letters.each do |letter|
     result += decode_char(letter)
   end
