@@ -22,49 +22,15 @@ Type these commands into the terminal:
 
 ```
 git clone https://github.com/Santiago220991/Morse_Decoder.git
-cd project-name
+cd Morse_Decoder
 ```
 
-### Install
-
-Type this command into the terminal:
-
-```
-npm install
-```
-
-### Build
+### Run
 
 Type these commands into the terminal:
 
 ```
-npm run build
-```
-
-- Open `build/index.html` in your web browser.
-
-### Run dev server
-
-Type these commands into the terminal:
-
-```
-npm run start
-```
-
-- Your web browser will open on [http://localhost:3000](http://localhost:3000)
-
-### Run tests
-
-Type this command into the terminal:
-
-```
-npm run test
-```
-
-### Deployment
-
-```
-npm run deploy
+ruby morse_code.rb
 ```
 
 ## Authors
